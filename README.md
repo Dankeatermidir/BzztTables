@@ -6,11 +6,9 @@ Time to get electrocuted !
 BzztMachen shocks you with high voltage square wave every time you take damage in game.
 For this to work you'll need:
 
-[BzztMachen Software](https://github.com/Dankeatermidir/bzztmachen)
-
-[BzztMachen Hardware](https://github.com/Dankeatermidir/BzztMachenHardware)
-
-[BzztMachen Tables](https://github.com/Dankeatermidir/BzztTables) for [Cheat engine](https://github.com/cheat-engine/cheat-engine), or make yourself a plugin idk
+1. [BzztMachen Software](https://github.com/Dankeatermidir/bzztmachen)
+2. [BzztMachen Hardware](https://github.com/Dankeatermidir/BzztMachenHardware)
+3. [BzztMachen Tables](https://github.com/Dankeatermidir/BzztTables) for [Cheat engine](https://github.com/cheat-engine/cheat-engine), or make yourself a plugin idk
 
 
 BzztTables are basicly what allows Bzztmachen to know when you're taking damage.
