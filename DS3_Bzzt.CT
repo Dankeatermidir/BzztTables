@@ -106,7 +106,7 @@ CETrainer_CELabel1.Visible = false
 
 function calc_freq(p,c,m,player)
     x = (p-c)/m
-    if (x &lt; 0.01) then
+    if (x &gt; 0.01) then
         if (x &lt; 0.5) then
            x = math.floor((1030 - (1958 * x)))
            return player..","..tostring(x)
